@@ -1243,7 +1243,7 @@ if (WITH_EMU)
 
 endif (WITH_EMU)
 if (WITH_ECMBIN)
-	message (STATUS "  Compile with ECMBIN support")
+	message (STATUS "  Compile with ECMBIN support") 
 endif (WITH_ECMBIN)
 
 message (STATUS "")
